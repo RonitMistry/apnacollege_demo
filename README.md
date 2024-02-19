@@ -1,3 +1,4 @@
 # apnacollege_demo
 A demo repository for tutorial purpose
-Aurthor - Ronit Mistry
+<br>
+<h1>Aurthor - Ronit Alpeshkumar Mistry</h1>
